@@ -75,7 +75,7 @@ email: "sangwoo3.cho@gmail.com"
 #- Visitors
 ---
 
-Hi! My name is Sangwoo Cho or 조상우 (in Korean) and I am a 4th-year Ph.D. student in the [Computer Science Department](http://cs.ucf.edu/) at the [University of Central Florida](http://www.ucf.edu/) . My research interests include Computer Vision, Video Action Recognition, Natural Language Processing, Automatic Text Summarization, and Deep Learning. I am currently under the supervision of [Dr. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) in the [CIL](<http://cil.cs.ucf.edu/>) and [Dr. Fei Liu](<http://www.cs.ucf.edu/~feiliu/>) in the [UCF NLP group](<http://www.nlp.cs.ucf.edu/>).
+Hi! My name is Sangwoo Cho or 조상우 (in Korean) and I am a 4th-year Ph.D. student in the [Computer Science Department](http://cs.ucf.edu/) at the [University of Central Florida](http://www.ucf.edu/). My research interests include Computer Vision, Video Action Recognition, Natural Language Processing, Automatic Text Summarization, and Deep Learning. I am currently under the supervision of [Dr. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) in the [CIL](<http://cil.cs.ucf.edu/>) and [Dr. Fei Liu](<http://www.cs.ucf.edu/~feiliu/>) in the [UCF NLP group](<http://www.nlp.cs.ucf.edu/>).
 
 
 

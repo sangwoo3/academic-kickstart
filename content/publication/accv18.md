@@ -28,7 +28,7 @@ abstract = "The video based CNN works have focused on effective ways to fuse app
 image_preview = "accv18.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

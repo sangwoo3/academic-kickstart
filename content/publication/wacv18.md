@@ -28,7 +28,7 @@ abstract = "In this work, we present a method to represent a video with a sequen
 image_preview = "wacv18.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
