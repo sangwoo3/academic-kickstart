@@ -28,7 +28,7 @@ abstract = "In this work, we present a method to represent a video with a sequen
 image_preview = "wacv18.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "wacv18.png"
+image = ""
 caption = ""
 
 +++

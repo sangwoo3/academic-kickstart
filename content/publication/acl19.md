@@ -1,6 +1,6 @@
 +++
 title = "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization"
-date = 2018-07-28
+date = 2019-07-28
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "acl19.png"
+image = ""
 caption = ""
 
 +++
