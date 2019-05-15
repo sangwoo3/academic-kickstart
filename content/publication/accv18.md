@@ -18,26 +18,11 @@ authors = ["Sangwoo Cho", "Hassan Foroosh"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2018 Asian Conference on
-Computer Vision."
+publication = "In Proceedings of the 2018 Asian Conference on Computer Vision."
 publication_short = "In *ACCV*"
 
 # Abstract and optional shortened version.
-abstract = "The video based CNN works have focused on effective ways to fuse
-appearance and motion networks, but they typically lack utilizing temporal in-
-formation over video frames. In this work, we present a novel spatio-temporal
-fusion network (STFN) that integrates temporal dynamics of appearance and mo-
-tion information from entire videos. The captured temporal dynamic information
-is then aggregated for a better video level representation and learned via end-to-
-end training. The spatio-temporal fusion network consists of two set of Residual
-Inception blocks that extract temporal dynamics and a fusion connection for ap-
-pearance and motion features. The benefits of STFN are: (a) it captures local
-and global temporal dynamics of complementary data to learn video-wide infor-
-mation; and (b) it is applicable to any network for video classification to boost
-performance. We explore a variety of design choices for STFN and verify how
-the network performance is varied with the ablation studies. We perform exper-
-iments on two challenging human activity datasets, UCF101 and HMDB51, and
-achieve the state-of-the-art results with the best network."
+abstract = "The video based CNN works have focused on effective ways to fuse appearance and motion networks, but they typically lack utilizing temporal information over video frames. In this work, we present a novel spatio-temporal fusion network (STFN) that integrates temporal dynamics of appearance and motion information from entire videos. The captured temporal dynamic information is then aggregated for a better video level representation and learned via end-to-end training. The spatio-temporal fusion network consists of two set of Residual Inception blocks that extract temporal dynamics and a fusion connection for appearance and motion features. The benefits of STFN are: (a) it captures local and global temporal dynamics of complementary data to learn video-wide information; and (b) it is applicable to any network for video classification to boost performance. We explore a variety of design choices for STFN and verify how the network performance is varied with the ablation studies. We perform experiments on two challenging human activity datasets, UCF101 and HMDB51, and achieve the state-of-the-art results with the best network."
 
 # Featured image thumbnail (optional)
 image_preview = "accv18.png"

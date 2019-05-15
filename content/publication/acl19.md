@@ -22,12 +22,7 @@ publication = "In Proceedings of the 2019 Association for Computational Linguist
 publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "The most important obstacles facing multi-document summarization include excessive redundancy in source descriptions and the looming shortage of training data.
-These obstacles prevent encoder-decoder models from being used directly, but optimization-based methods such as determinantal point processes (DPPs) are known to handle them well.
-In this paper we seek to strengthen a DPP-based method for extractive multi-document summarization by presenting a novel similarity measure inspired by capsule networks. 
-The approach measures redundancy between a pair of sentences based on surface form and semantic meanings. 
-We show that our DPP system with improved similarity measure performs competitively, outperforming strong summarization baselines on benchmark datasets.
-Our findings are particularly meaningful for summarizing documents created by multiple authors containing redundant yet lexically diverse expressions."
+abstract = "The most important obstacles facing multi-document summarization include excessive redundancy in source descriptions and the looming shortage of training data. These obstacles prevent encoder-decoder models from being used directly, but optimization-based methods such as determinantal point processes (DPPs) are known to handle them well. In this paper we seek to strengthen a DPP-based method for extractive multi-document summarization by presenting a novel similarity measure inspired by capsule networks. The approach measures redundancy between a pair of sentences based on surface form and semantic meanings. We show that our DPP system with improved similarity measure performs competitively, outperforming strong summarization baselines on benchmark datasets. Our findings are particularly meaningful for summarizing documents created by multiple authors containing redundant yet lexically diverse expressions."
 
 # Featured image thumbnail (optional)
 image_preview = "acl19.png"

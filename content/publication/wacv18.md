@@ -18,34 +18,11 @@ authors = ["Sangwoo Cho", "Hassan Foroosh"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2018 IEEE Winter
-Applications of Computer Vision Conference."
+publication = "In Proceedings of the 2018 IEEE Winter Applications of Computer Vision Conference."
 publication_short = "In *WACV*"
 
 # Abstract and optional shortened version.
-abstract = "In this work, we present a method to represent a video
-with a sequence of words, and learn the temporal sequen-
-cing of such words as the key information for predicting and
-recognizing human actions. We leverage core concepts from
-the Natural Language Processing (NLP) literature used in
-sentence classification to solve the problems of action pre-
-diction and action recognition. Each frame is converted
-into a word that is represented as a vector using the Bag
-of Visual Words (BoW) encoding method. The words are
-then combined into a sentence to represent the video, as a
-sentence. The sequence of words in different actions are
-learned with a simple but effective Temporal Convolutio-
-nal Neural Network (T-CNN) that captures the temporal se-
-quencing of information in a video sentence. We demon-
-strate that a key characteristic of the proposed method is
-its low-latency, i.e. its ability to predict an action accura-
-tely with a partial sequence (sentence). Experiments on two
-datasets, UCF101 and HMDB51 show that the method on
-average reaches 95% of its accuracy within half the video
-frames. Results, also demonstrate that our method achieves
-compatible state-of-the-art performance in action recogni-
-tion (i.e. at the completion of the sentence) in addition to
-action prediction."
+abstract = "In this work, we present a method to represent a video with a sequence of words, and learn the temporal sequencing of such words as the key information for predicting and recognizing human actions. We leverage core concepts from the Natural Language Processing (NLP) literature used in sentence classification to solve the problems of action prediction and action recognition. Each frame is converted into a word that is represented as a vector using the Bag of Visual Words (BoW) encoding method. The words are then combined into a sentence to represent the video, as a sentence. The sequence of words in different actions are learned with a simple but effective Temporal Convolutional Neural Network (T-CNN) that captures the temporal sequencing of information in a video sentence. We demonstrate that a key characteristic of the proposed method is its low-latency, i.e. its ability to predict an action accurately with a partial sequence (sentence). Experiments on two datasets, UCF101 and HMDB51 show that the method on average reaches 95% of its accuracy within half the video frames. Results, also demonstrate that our method achieves compatible state-of-the-art performance in action recognition (i.e. at the completion of the sentence) in addition to action prediction."
 
 # Featured image thumbnail (optional)
 image_preview = "wacv18.png"
