@@ -1,7 +1,7 @@
 +++
 title = "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization"
-date = 2019-07-28
-draft = true #false
+date = 2019 #-07-28
+draft = false #false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sangwoo Cho", "Logan Lebanoff", "Hassan Foroosh",  "Fei Liu"]
