@@ -32,10 +32,10 @@ education:
   - course: MSc in Computer Science
     institution: University of North Carolina
     year: 2014
-  - course: MEng in ELECTRONICS AND COMPUTER ENGINEERING
+  - course: MEng in Electronics and Computer Engineering
     institution: Korea University
     year: 2007
-  - course: BEc in ELECTRONIC ENGINEERING
+  - course: BEc in Electronic Engineering
     institution: Sogang University
     year: 2005
 
@@ -56,6 +56,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sangwoo3
+- icon: home
+  icon_pack: fas
+  link: 'cs.unc.edu/~cswno'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
  #- icon: cv

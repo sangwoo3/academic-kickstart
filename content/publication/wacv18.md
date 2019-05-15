@@ -1,0 +1,95 @@
++++
+title = "A Temporal Sequence Learning for Action Recognition and Prediction"
+date = 2018-03-12
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Sangwoo Cho", "Hassan Foroosh"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "In Proceedings of the 2018 IEEE Winter
+Applications of Computer Vision Conference."
+publication_short = "In *WACV*"
+
+# Abstract and optional shortened version.
+abstract = "In this work, we present a method to represent a video
+with a sequence of words, and learn the temporal sequen-
+cing of such words as the key information for predicting and
+recognizing human actions. We leverage core concepts from
+the Natural Language Processing (NLP) literature used in
+sentence classification to solve the problems of action pre-
+diction and action recognition. Each frame is converted
+into a word that is represented as a vector using the Bag
+of Visual Words (BoW) encoding method. The words are
+then combined into a sentence to represent the video, as a
+sentence. The sequence of words in different actions are
+learned with a simple but effective Temporal Convolutio-
+nal Neural Network (T-CNN) that captures the temporal se-
+quencing of information in a video sentence. We demon-
+strate that a key characteristic of the proposed method is
+its low-latency, i.e. its ability to predict an action accura-
+tely with a partial sequence (sentence). Experiments on two
+datasets, UCF101 and HMDB51 show that the method on
+average reaches 95% of its accuracy within half the video
+frames. Results, also demonstrate that our method achieves
+compatible state-of-the-art performance in action recogni-
+tion (i.e. at the completion of the sentence) in addition to
+action prediction."
+
+# Featured image thumbnail (optional)
+image_preview = "wacv18.png"
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "<https://ieeexplore.ieee.org/document/8354149>"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "wacv18.png"
+caption = ""
+
++++
+
