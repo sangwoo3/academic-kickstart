@@ -27,6 +27,8 @@ abstract = "The most important obstacles facing multi-document summarization inc
 # Featured image thumbnail (optional)
 image_preview = "acl19.png"
 
+featured = true
+
 # Is this a selected publication? (true/false)
 selected = true
 
