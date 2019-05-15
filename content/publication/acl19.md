@@ -1,6 +1,6 @@
 +++
 title = "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization"
-date = 2019 #-07-28
+date = 2019-05-13 #-07-28
 draft = false #false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -26,8 +26,6 @@ abstract = "The most important obstacles facing multi-document summarization inc
 
 # Featured image thumbnail (optional)
 image_preview = "acl19.png"
-
-featured = true
 
 # Is this a selected publication? (true/false)
 selected = true
